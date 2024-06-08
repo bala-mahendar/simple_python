@@ -3,14 +3,10 @@ import socket
 import requests
 import sys
 # host = input("Enter a hostname or IP address: ")
-if(len(sys.argv) < 2):
-    print("Usage of this command"
-          "    info <url/domain>")
-    sys.exit(1)
 
 try:
-        print(sys.argv)
-        ip_address = socket.gethostbyname(sys.argv[1])
+        print(host)
+        ip_address = socket.gethostbyname(host)
         rep_two = requests.get("https://ipinfo.io/"+ip_address+"/json")
         # print(f'Scanning the IP address: {ip_address}')
 
