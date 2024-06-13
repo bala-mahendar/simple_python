@@ -6,7 +6,7 @@ host = input("Enter the IP or Domain name : ")
 
 try:
         address = requests.get("https://"+host)  # getting the domain website using request.get()
-        print("\n",str(address.headers))                # gathering the headers of the particular wensite
+        print("\n",str(address.headers))                # gathering the headers of the particular website
         print("\n********************************************************")
         ip_address = socket.gethostbyname(host)  # getting ip address using the socket.gethostbyname()
         print(f'\nScanning the IP address: {ip_address} ==> {host}')
