@@ -1,9 +1,10 @@
-Hi Guys
+Information-Gathering Tool : 
+👉 git clone https://github.com/bala-mahendar/simple_python.git/information-gatheringexample.py
+![Screenshot 2024-05-20 144642](https://github.com/user-attachments/assets/c9dc92d1-807c-44e5-b0d4-58fea4d7750f)
 
-This is just a information gathering tool which i directly connect the ipinfo website url for take out the information in json format 
-So to download my project just clone this link : 
 
-👉 git clone https://github.com/bala-mahendar/simple_python.git
-👉 git clone 
+
+Corridor try hack me Brute forcer : 
+👉 git clone https://github.com/bala-mahendar/simple_python.git/Corridor_thm.py
 ![image](https://github.com/user-attachments/assets/fa74c690-6ca6-4da3-bffb-10c7bf6ab9f4)
 
